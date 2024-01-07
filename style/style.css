@@ -6,3 +6,12 @@ body{
 nav{
     display: inline;
 }
+.nav-title{
+    color:  #181818;
+
+font-size: 45px;
+
+font-weight: 800;
+
+
+}
