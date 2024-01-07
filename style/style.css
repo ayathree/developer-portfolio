@@ -4,7 +4,9 @@ body{
 
 
 nav{
-    display: inline;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .nav-title{
     color:  #181818;
@@ -26,6 +28,7 @@ font-weight: 800;
 }
 nav > ul{
     display: flex;
+    align-items: center;
 }
  nav li{
     margin-right: 50px;
