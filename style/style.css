@@ -44,4 +44,5 @@ nav > ul{
  }
  .banner{
     padding: 30px 30px 30px 150px;
+    display: flex;
  }
